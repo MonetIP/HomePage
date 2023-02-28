@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monet/static/css/main.073c9b0a.css",
+    "main.js": "/monet/static/js/main.1b0eeac6.js",
+    "static/js/787.f3b022e2.chunk.js": "/monet/static/js/787.f3b022e2.chunk.js",
+    "static/media/logo2.svg": "/monet/static/media/logo2.bc2f2a2607b824fbbe506ee9c69d0dce.svg",
+    "index.html": "/monet/index.html",
+    "main.073c9b0a.css.map": "/monet/static/css/main.073c9b0a.css.map",
+    "main.1b0eeac6.js.map": "/monet/static/js/main.1b0eeac6.js.map",
+    "787.f3b022e2.chunk.js.map": "/monet/static/js/787.f3b022e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1b0eeac6.js"
+  ]
+}
