@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MonetIP/HomePage/static/css/main.073c9b0a.css",
-    "main.js": "/MonetIP/HomePage/static/js/main.51a6f325.js",
-    "static/js/787.f3b022e2.chunk.js": "/MonetIP/HomePage/static/js/787.f3b022e2.chunk.js",
-    "static/media/logo2.svg": "/MonetIP/HomePage/static/media/logo2.bc2f2a2607b824fbbe506ee9c69d0dce.svg",
-    "index.html": "/MonetIP/HomePage/index.html",
-    "main.073c9b0a.css.map": "/MonetIP/HomePage/static/css/main.073c9b0a.css.map",
-    "main.51a6f325.js.map": "/MonetIP/HomePage/static/js/main.51a6f325.js.map",
-    "787.f3b022e2.chunk.js.map": "/MonetIP/HomePage/static/js/787.f3b022e2.chunk.js.map"
+    "main.css": "/HomePage/static/css/main.073c9b0a.css",
+    "main.js": "/HomePage/static/js/main.428e028c.js",
+    "static/js/787.f3b022e2.chunk.js": "/HomePage/static/js/787.f3b022e2.chunk.js",
+    "static/media/logo2.svg": "/HomePage/static/media/logo2.bc2f2a2607b824fbbe506ee9c69d0dce.svg",
+    "index.html": "/HomePage/index.html",
+    "main.073c9b0a.css.map": "/HomePage/static/css/main.073c9b0a.css.map",
+    "main.428e028c.js.map": "/HomePage/static/js/main.428e028c.js.map",
+    "787.f3b022e2.chunk.js.map": "/HomePage/static/js/787.f3b022e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.51a6f325.js"
+    "static/js/main.428e028c.js"
   ]
 }
